@@ -87,7 +87,7 @@ var surName = "Isaacks";
 // Using the variables above create another variable
 // with the content "My Instructor's name is JD Isaacks"
 
-//var fullName = givenName + surName;
+//var fullName = "My Instructor's name is " + givenName + " " + surName;
 
 
 
